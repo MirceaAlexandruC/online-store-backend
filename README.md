@@ -1,7 +1,4 @@
 # spring-boot-angular-ecommerce-backend
 
-<a href="https://github.com/dickanirwansyah/spring-boot-angular-ecommerce-frontend">This is frontend</a>
+<a href="https://github.com/MirceaAlexandruC/online-store-frontend.git">This is frontend</a>
 
-# Reference 
-
-<a href="https://github.com/eugenp/tutorials">Baeldung</a>
